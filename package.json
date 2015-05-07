@@ -35,7 +35,8 @@
     "validate.io-array": "^1.0.3",
     "validate.io-array-array": "^1.0.0",
     "validate.io-function": "^1.0.2",
-    "validate.io-integer": "^1.0.5"
+    "validate.io-integer": "^1.0.5",
+    "validate.io-object": "^1.0.3"
   },
   "devDependencies": {
     "chai": "2.x.x",
