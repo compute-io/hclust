@@ -22,7 +22,7 @@ var hclust = require( 'compute-hclust' );
 
 #### hclust( data[, opts] )
 
-Given an input `data` in the form of a two-dimensional array, this function carries out [http://en.wikipedia.org/wiki/Hierarchical_clustering](Hierarchical Clustering).
+Given an input `data` in the form of a two-dimensional array, this function carries out [Hierarchical Clustering](http://en.wikipedia.org/wiki/Hierarchical_clustering).
 
 The function accepts the following `options`:
 
